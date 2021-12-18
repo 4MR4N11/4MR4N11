@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kel-amra)](https://github.com/JaeSeoKim/badge42)
 <!--
 **4MR4N11/4MR4N11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
