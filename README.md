@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kel-amra?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark)
 <!--
 **4MR4N11/4MR4N11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
