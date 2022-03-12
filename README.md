@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kel-amra?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=tokyonight)
+
+![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 <!--
 **4MR4N11/4MR4N11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
