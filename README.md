@@ -15,6 +15,11 @@
 
 ---
 
+[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
+[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=6&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+---
+
 
 ![Peers's github stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
