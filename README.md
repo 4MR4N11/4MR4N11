@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+Khalid+-+aka+4MR4N11)](https://git.io/typing-svg)
 
-
----
-
+## :name_badge: I'm a Pentester and Developer!
+<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
 
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing Boxes and CTFS
