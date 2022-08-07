@@ -6,7 +6,7 @@
 - :meat_on_bone: Fun fact, I love linux \o/
 
 
-[![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)][tryhackme]
+[![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)]
 <!--
 **4MR4N11/4MR4N11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
