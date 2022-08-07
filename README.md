@@ -2,6 +2,8 @@
 
 ## :name_badge: I'm a Pentester and Developer!
 
+---
+
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing Boxes and CTFS
 - :watermelon: You can reach me via email or Linkedin
