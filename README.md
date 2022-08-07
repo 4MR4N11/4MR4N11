@@ -7,6 +7,7 @@
 - :watermelon: You can reach me via email or Linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
+[<img align="left" alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
 ---
 
 ![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)
