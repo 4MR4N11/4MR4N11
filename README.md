@@ -10,8 +10,8 @@
 
 ---
 
-![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)
-![4mr4n11's hackthebox stats](https://www.hackthebox.eu/badge/image/1095316)
+[![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)][tryhackme]
+[![4mr4n11's hackthebox stats](https://www.hackthebox.eu/badge/image/1095316)][hackthebox]
 
 
 ---
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [linkedin]: https://www.linkedin.com/in/4mr4n11/
+[tryhackme]: https://tryhackme.com/p/4mr4n11
+[hackthebox]: https://www.hackthebox.eu/home/users/profile/1095316
