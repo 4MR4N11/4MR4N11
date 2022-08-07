@@ -15,8 +15,8 @@
 
 ---
 
-[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
-[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=6&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=20&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
+[![4mr4n11's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=5&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
