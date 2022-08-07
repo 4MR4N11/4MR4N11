@@ -4,10 +4,10 @@
 
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing Boxes and CTFS
-- :watermelon: You can reach me via email or Linked[<img align="left" alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
+- :watermelon: You can reach me via email or Linked[<img alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
 - :meat_on_bone: Fun fact, I love linux \o/
 
-[<img align="left" alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
+
 ---
 
 ![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)
