@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 -->
 [linkedin]: https://www.linkedin.com/in/4mr4n11/
 [tryhackme]: https://tryhackme.com/p/4mr4n11
-[hackthebox]: https://www.hackthebox.eu/home/users/profile/1095316
+[hackthebox]: https://app.hackthebox.com/profile/1095316
