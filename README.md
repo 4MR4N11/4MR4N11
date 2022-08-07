@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=I'm+Khalid+-+aka+4MR4N11)](https://git.io/typing-svg)
 
+
+---
+
+
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing Boxes and CTFS
-- :watermelon: You can reach me via email or [<img align="left" alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
+- :watermelon: You can reach me via email or Linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
+---
 
 ![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)
 
