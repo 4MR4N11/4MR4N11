@@ -2,7 +2,7 @@
 
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing Boxes and CTFS
-- :watermelon: You can reach me via email or linkedin
+- :watermelon: You can reach me via email or [<img align="left" alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
 - :meat_on_bone: Fun fact, I love linux \o/
 
 
