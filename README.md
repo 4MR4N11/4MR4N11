@@ -10,7 +10,7 @@
 
 ---
 
-[![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)][tryhackme]
+[![4mr4n11's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/4mr4n11.png)][tryhackme]
 [![4mr4n11's hackthebox stats](https://www.hackthebox.eu/badge/image/1095316)][hackthebox]
 
 
