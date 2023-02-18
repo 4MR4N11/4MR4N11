@@ -2,7 +2,7 @@
 
 ## :name_badge: I'm a Pentester & Developer!
 
-- :peach: I'm currently learning Web Development.
+- :peach: I'm currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
 - :tangerine: I often lose my temper doing Boxes and CTFS.
 - :watermelon: You can reach me via email or LinkedIn([<img alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]).
 
