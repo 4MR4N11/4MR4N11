@@ -21,8 +21,11 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=4mr4n11&theme=radical" width="45%" >
-
-
+<div align="center">
+  
+![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+  
+  </div>
 <br /> 
 
 <div align="center">
