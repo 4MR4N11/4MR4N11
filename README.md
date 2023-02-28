@@ -15,10 +15,32 @@
 
 ---
 
+## 🏆 Github Status
 
+<img  src="https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=4mr4n11&theme=radical" width="45%" >
+
+
+<br /> 
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=4mr4n11&theme=onestar&no-frame=true" alt="4mr4n11 Profile Trophies" />
+  </a>
+</div>
+
+
+<br /> 
+
+<div align="center">
+
+## Show some ❤️ by starring ⭐ some of the repositories!
+
+</div>
+<!-- 
 ![Peers's github stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
-![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff) -->
 <!--
 **4MR4N11/4MR4N11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
