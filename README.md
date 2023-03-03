@@ -6,7 +6,6 @@
 - :tangerine: I often lose my temper doing Boxes and CTFS.
 - :watermelon: You can reach me via email or LinkedIn([<img alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]).
 
-
 ---
 <div align="center">
   
