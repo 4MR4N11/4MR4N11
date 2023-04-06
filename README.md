@@ -1,6 +1,7 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=30&color=%239315B7&pause=500&lines=HELLO+%F0%9F%91%8B;I'm+Khalid+-+aka+4MR4N11.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=30&color=%239315B7&pause=500&lines=HELLO+%F0%9F%91%8B;I'm+Khalid+-+aka+4MR4N11.)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&weight=600&size=30&pause=1000&color=%239315B7&width=435&lines=HELLO+%F0%9F%91%8B;I'm+Khalid+aka+4MR4N11)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a Pentester & Developer!
 
