@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hey++I'm+Khalid+-+aka+4MR4N11)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hey%0AI'm+Khalid+-+aka+4MR4N11)](https://git.io/typing-svg)
 
 ## :name_badge: I'm a Pentester & Developer!
 
