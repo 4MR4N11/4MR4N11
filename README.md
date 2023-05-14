@@ -34,8 +34,9 @@
 
 ---
 
-## 🏆 Github Status
+## Github Status
 
+<div align="center">
 <a href="https://github.com/4mr4n11?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&theme=radical"/>
 </a>
