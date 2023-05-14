@@ -1,13 +1,22 @@
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=30&color=%239315B7&pause=500&lines=HELLO+%F0%9F%91%8B;I'm+Khalid+-+aka+4MR4N11.)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&weight=600&size=30&pause=1000&color=%239315B7&width=435&lines=HELLO+%F0%9F%91%8B;I'm+Khalid+-+aka+4MR4N11)](https://git.io/typing-svg)
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Khalid</h1>
 
 ## :name_badge: Cybersecurity student & Developer.
 
 - :peach: I'm currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
-- :tangerine: I often lose my temper doing Boxes and CTFS.
+- :tangerine: I'm an avid player of CTFs and enjoy solving puzzles on boxes in my free time.
 - :watermelon: You can reach me via email or LinkedIn([<img alt="4mr4n11 | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]).
+
+---
+
+## Skills
+
+- **Penetration testing tools**: Metasploit, Nmap, Burp Suite, Wireshark, John the Ripper, Hydra, SQLMap, and more.
+
+- **Programming languages**: C, Python, Bash.
+
+- **Operating systems**: Linux, Windows, and macOS.
 
 ---
 <div align="center">
