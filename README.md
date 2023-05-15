@@ -2,6 +2,8 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Khalid</h1>
 
+---
+
 ## :name_badge: Cybersecurity student & Developer.
 
 - :peach: I'm currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
