@@ -39,23 +39,11 @@
 ## Github Status
 
 <div align="center">
-<a href="https://github.com/4mr4n11?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&theme=radical"/>
-</a>
-<a href="https://github.com/4mr4n11?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=4mr4n11&line_height=40&show_icons=true&theme=radical">
-</a>
-  </div>
-<br /> 
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=4mr4n11&theme=onestar&no-frame=true" alt="4mr4n11 Profile Trophies" />
-  </a>
+[![4mr4n11's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
-<br /> 
+ 
 
 <div align="center">
 
