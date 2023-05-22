@@ -43,7 +43,9 @@
 [![4mr4n11's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
- 
+ <div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=4mr4n11&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 <div align="center">
 
