@@ -16,7 +16,7 @@
 
 - **Penetration testing tools**: Metasploit, Nmap, Burp Suite, Wireshark, John the Ripper, Hydra, SQLMap, and more.
 
-- **Programming languages**: C, Python, Bash.
+- **Programming languages**: C, Python, Bash, Javascript.
 
 - **Operating systems**: Linux, Windows, and macOS.
 
