@@ -18,6 +18,8 @@
 
 - **Programming languages**: C, Python, Bash, Javascript.
 
+- **Web Technologies**: HTML, CSS, Django.
+
 - **Operating systems**: Linux, Windows, and macOS.
 
 ---
