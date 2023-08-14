@@ -18,7 +18,7 @@
 
 - **Programming languages**: C, Python, Bash, Javascript.
 
-- **Web Technologies**: HTML, CSS, Django.
+- **Web Technologies**: HTML, CSS, Javascript, Django, MySQL.
 
 - **Operating systems**: Linux, Windows, and macOS.
 
