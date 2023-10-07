@@ -4,7 +4,7 @@
 
 ---
 
-## :name_badge: Cybersecurity student & Developer.
+## :name_badge: Software engineering student.
 
 - :peach: I'm currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
 - :tangerine: I'm an avid player of CTFs and enjoy solving puzzles on boxes in my free time.
@@ -14,13 +14,7 @@
 
 ## Skills
 
-- **Penetration testing tools**: Metasploit, Nmap, Burp Suite, Wireshark, John the Ripper, Hydra, SQLMap, and more.
-
-- **Programming languages**: C, C++, Python, Bash, Javascript.
-
-- **Web Technologies**: HTML, CSS, Bootstrap, Javascript, Django, MySQL.
-
-- **Operating systems**: Linux, Windows, and macOS.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,express,flask,git,jquery,mysql,nginx,linux,bash)](https://skillicons.dev)
 
 ---
 
