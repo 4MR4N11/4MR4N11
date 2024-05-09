@@ -14,7 +14,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,flask,git,mysql,nginx,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go,html,css,react,flask,git,mysql,nginx,linux,bash)](https://skillicons.dev)
 
 ---
 
