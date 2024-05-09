@@ -6,7 +6,7 @@
 
 ## :name_badge: Software engineering student.
 
-- :peach: I'm currently studying Software engineering at [ALX Africa](https://www.alxafrica.com/).
+- :peach: I'm currently studying Software engineering at [Zone01 Oujda](https://www.zone01oujda.ma/).
 - :tangerine: I'm an avid player of CTFs and enjoy solving puzzles on boxes in my free time.
 - :watermelon: You can reach me via [Email] or [LinkedIn].
 
