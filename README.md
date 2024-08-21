@@ -13,8 +13,11 @@
 ---
 
 ## Skills
-
+<div align="center">
+ 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go,html,css,react,flask,git,mysql,nginx,linux,bash)](https://skillicons.dev)
+
+</div>
 
 ---
 
