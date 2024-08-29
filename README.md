@@ -4,7 +4,7 @@
 
 ---
 
-## :name_badge: Software engineering student.
+## :name_badge: Cybersecurity Enthusiast & Lifelong Learner.
 
 - :peach: I'm currently studying Software engineering at [Zone01 Oujda](https://www.zone01oujda.ma/).
 - :tangerine: I'm an avid player of CTFs and enjoy solving puzzles on boxes in my free time.
