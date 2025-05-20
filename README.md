@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+TryHackMe+Top+1%25+Ranked;%F0%9F%92%BB+Junior+Penetration+Tester;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%93%93+Lifelong+Security+Learner">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Junior+Penetration+Tester;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%93%93+Lifelong+Security+Learner">
 </div>
 
 ---
@@ -14,7 +14,7 @@
 <div align="center">
   
 ### 💻 Core Technologies
-[![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,golang,rust,mysql)](https://skillicons.dev)
 
 ### 🔐 Security Specialties
 [![Pentesting](https://img.shields.io/badge/-Network%20Pentesting-ED1C24?logo=probot)](https://tryhackme.com/)
@@ -54,8 +54,7 @@
 [![ProtonMail](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail)](mailto:amraniikhalid0606@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-9CF?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/4mr4n11)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9CF?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/1095316)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/4mr4n11)
 
 </div>
 
