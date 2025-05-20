@@ -1,51 +1,70 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  🔐 Khalid El Amrani - Cybersecurity Enthusiast & CTF Player
+</h1>
 
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Khalid</h1>
-
----
-
-## :name_badge: Cybersecurity Enthusiast & Lifelong Learner.
-
-- :peach: I'm currently studying Software engineering at [Zone01 Oujda](https://www.zone01oujda.ma/).
-- :tangerine: I'm an avid player of CTFs and enjoy solving puzzles on boxes in my free time.
-- :watermelon: You can reach me via [Email] or [LinkedIn].
-
----
-
-## Skills
 <div align="center">
- 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go,html,css,react,flask,git,mysql,nginx,linux,bash)](https://skillicons.dev)
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+TryHackMe+Top+1%25+Ranked;%F0%9F%92%BB+Junior+Penetration+Tester;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%93%93+Lifelong+Security+Learner">
+</div>
+
+---
+
+## 🛠️ Technical Toolkit
+
+<div align="center">
+  
+### 💻 Core Technologies
+[![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,mysql)](https://skillicons.dev)
+
+### 🔐 Security Specialties
+[![Pentesting](https://img.shields.io/badge/-Network%20Pentesting-ED1C24?logo=probot)](https://tryhackme.com/)
+[![CTFs](https://img.shields.io/badge/-CTF%20Player-9CF?logo=hackthebox)](https://app.hackthebox.com/)
+[![Certs](https://img.shields.io/badge/THM%20Junior%20Pentester-28a745?logo=icloud)](https://tryhackme.com/)
+</div>
+
+---
+
+## 🏆 Cyber Achievements
+
+<div align="center">
+  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-9CF?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/4mr4n11)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank_877-9CF?logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/profile/1095316)
 
 </div>
 
 ---
 
-## CTFs and Puzzles
-- Top 1% on Tryhackme.
-- Junior Penetration Tester Certificate from TryHackMe.
-<div>
- 
-[![4mr4n11's tryhackme stats](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/4mr4n11.png)][tryhackme]
-[![4mr4n11's hackthebox stats](https://www.hackthebox.eu/badge/image/1095316)][hackthebox]
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+| <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark&hide_border=true" alt="Stats"></a> | <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&theme=dark&hide_border=true"></a> |
+| ------------- | ------------- |
 
 </div>
 
 ---
 
-## Github Status
+## 📍 Let's Connect
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/4mr4n11/)
+[![ProtonMail](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail)](mailto:amraniikhalid0606@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-9CF?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/4mr4n11)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9CF?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/1095316)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/)
 
-[![4mr4n11's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div align="center">
+---
 
-## Show some ❤️ by starring ⭐ some of the repositories!
-[Linkedin]: https://www.linkedin.com/in/4mr4n11/
-[tryhackme]: https://tryhackme.com/p/4mr4n11
-[hackthebox]: https://app.hackthebox.com/profile/1095316
-[Email]: mailto:amraniikhalid0606@gmail.com
+<div align="center">
+  
+![Hacker Terminal](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/hacker.gif)
+
+**"In cybersecurity, every locked door is just a puzzle waiting to be solved."** 🔓
+
+</div> 
