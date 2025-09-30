@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Junior+Penetration+Tester;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%93%93+Lifelong+Security+Learner">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%93%9A+Full+Stack+Developer;%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%93%93+Lifelong+Security+Learner">
 </div>
 
 ---
@@ -14,7 +14,7 @@
 <div align="center">
   
 ### 💻 Core Technologies
-[![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,golang,rust,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,golang,rust,mysql,java,spring,ts,angular)](https://skillicons.dev)
 
 ### 🔐 Security Specialties
 [![Pentesting](https://img.shields.io/badge/-Network%20Pentesting-ED1C24?logo=probot)](https://tryhackme.com/)
