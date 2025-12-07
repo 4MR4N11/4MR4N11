@@ -3,7 +3,21 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%93%9A+Full+Stack+Developer;%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%93%93+Lifelong+Security+Learner">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=25&duration=3000&pause=1000&color=28F749&center=true&vCenter=true&width=600&lines=%F0%9F%93%9A+Full+Stack+Developer;%F0%9F%92%BB+Cybersecurity+Enthusiast;%F0%9F%9B%A1%EF%B8%8F+CyberZ+Club+President;%F0%9F%93%93+Lifelong+Security+Learner">
+</div>
+
+---
+
+## 🛡️ CyberZ Club
+
+<div align="center">
+
+**President & Founder** of CyberZ - Zone01 Oujda's Cybersecurity Club
+
+[![CyberZ](https://img.shields.io/badge/-CyberZ%20Club-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)](https://github.com/4MR4N11)
+
+*Leading workshops, CTF teams, and cybersecurity awareness initiatives*
+
 </div>
 
 ---
@@ -11,7 +25,7 @@
 ## 🛠️ Technical Toolkit
 
 <div align="center">
-  
+
 ### 💻 Core Technologies
 [![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,golang,rust,mysql,java,spring,ts,angular)](https://skillicons.dev)
 
@@ -26,7 +40,7 @@
 ## 🏆 Cyber Achievements
 
 <div align="center">
-  
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-9CF?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/4mr4n11)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank_877-9CF?logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/profile/1095316)
 
@@ -37,7 +51,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 | <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark&hide_border=true" alt="Stats"></a> | <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&theme=dark&hide_border=true"></a> |
 | ------------- | ------------- |
 
@@ -48,7 +62,7 @@
 ## 📍 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/4mr4n11/)
 [![ProtonMail](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail)](mailto:amraniikhalid0606@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-9CF?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/4mr4n11)
@@ -60,9 +74,9 @@
 ---
 
 <div align="center">
-  
+
 ![Hacker Terminal](https://raw.githubusercontent.com/4mr4n11/4mr4n11/master/assets/hacker.gif)
 
 **"In cybersecurity, every locked door is just a puzzle waiting to be solved."** 🔓
 
-</div> 
+</div>
