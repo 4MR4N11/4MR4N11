@@ -52,8 +52,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api?username=4mr4n11&show_icons=true&theme=dark&hide_border=true" alt="Stats"></a> | <a href="https://github.com/4mr4n11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mr4n11&layout=compact&theme=dark&hide_border=true"></a> |
-| ------------- | ------------- |
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/4mr4n11?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 </div>
 
