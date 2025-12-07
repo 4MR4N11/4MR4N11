@@ -14,7 +14,7 @@
 
 **President & Founder** of CyberZ - Zone01 Oujda's Cybersecurity Club
 
-[![CyberZ](https://img.shields.io/badge/-CyberZ%20Club-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)](https://github.com/4MR4N11)
+[![CyberZ](https://img.shields.io/badge/-CyberZ%20Club-001E12?style=for-the-badge)](https://www.linkedin.com/company/cyberz01/)
 
 *Leading workshops, CTF teams, and cybersecurity awareness initiatives*
 
