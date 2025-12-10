@@ -30,7 +30,6 @@
 [![Skills](https://skillicons.dev/icons?i=c,py,bash,linux,git,docker,nginx,golang,rust,mysql,java,spring,ts,angular)](https://skillicons.dev)
 
 ### 🔐 Security Specialties
-[![Pentesting](https://img.shields.io/badge/-Network%20Pentesting-ED1C24?logo=probot)](https://tryhackme.com/)
 [![CTFs](https://img.shields.io/badge/-CTF%20Player-9CF?logo=hackthebox)](https://app.hackthebox.com/)
 [![Certs](https://img.shields.io/badge/THM%20Junior%20Pentester-28a745?logo=icloud)](https://tryhackme.com/)
 </div>
