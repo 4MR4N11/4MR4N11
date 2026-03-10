@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**President & Founder** of CyberZ - Zone01 Oujda's Cybersecurity Club
+**Founder** of CyberZ - Zone01 Oujda's Cybersecurity Club
 
 [![CyberZ](https://img.shields.io/badge/-CyberZ%20Club-001E12?style=for-the-badge)](https://www.linkedin.com/company/cyberz01/)
 
